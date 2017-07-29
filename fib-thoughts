@@ -1,0 +1,6 @@
+list of 3
+counter = 2
+thing = [0,1]
+thing.append(thing[0]+thing[1])
+del thing[0]
+counter += 1
